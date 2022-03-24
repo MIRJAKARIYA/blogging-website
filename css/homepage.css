@@ -1,0 +1,35 @@
+.article-additional-style{
+    background-color: #206A5D;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.user-header{
+    padding: 9px;
+    background-color: #96bb7c33;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.178);
+    border-radius: 20px;
+}
+.comment{
+    margin-top: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 80%;
+    height: 35px;
+}
+.button-style{
+    border: none;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color:chocolate;
+    color: white;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.158);
+}
+.drop-comment{
+    color: white;
+    text-decoration: none;
+}
+.drop-comment:hover{
+    color:white;
+}
